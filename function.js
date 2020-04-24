@@ -1,3 +1,4 @@
+
 var canvas = document.getElementById("myCanvas");
 var area = canvas.getContext("2d");
 var score = 0;
