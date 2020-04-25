@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5ce14af8-dff9-424a-bd04-baf6172c3b1e/deploy-status)](https://app.netlify.com/sites/squaremoving/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0154dbe9-a32e-498b-938b-e82a05497c0f/deploy-status)](https://app.netlify.com/sites/sqgame/deploys)
 
 _______________________________________________________________________________________
 
