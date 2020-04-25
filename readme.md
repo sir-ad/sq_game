@@ -1,4 +1,8 @@
-# Square moving game [![Netlify Status](https://api.netlify.com/api/v1/badges/a93c8284-1d14-49bb-a32d-82053d6841ad/deploy-status)](https://app.netlify.com/sites/movingsquare/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a93c8284-1d14-49bb-a32d-82053d6841ad/deploy-status)](https://app.netlify.com/sites/movingsquare/deploys)
+
+_______________________________________________________________________________________
+
+# Square Game 
 
 - This is a simple game, where the user needs to move the red square such that it does not collide with the moving obstacles. This is made in JavaScript. 
 
