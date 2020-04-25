@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a93c8284-1d14-49bb-a32d-82053d6841ad/deploy-status)](https://app.netlify.com/sites/movingsquare/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ce14af8-dff9-424a-bd04-baf6172c3b1e/deploy-status)](https://app.netlify.com/sites/squaremoving/deploys)
 
 _______________________________________________________________________________________
 
